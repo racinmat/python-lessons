@@ -1,0 +1,9 @@
+{
+  "level": 5,
+  "health": 10,
+  "max_health": 100,
+  "weapons": [
+    "sword",
+    "shield"
+  ]
+}
