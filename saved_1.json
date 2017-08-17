@@ -1,0 +1,17 @@
+{
+    "path_walked": [
+        "left",
+        "left",
+        "up",
+        "right",
+        "down",
+        "right"
+    ],
+    "pet": {
+        "health": 5,
+        "name": "Macek",
+        "type": "cat"
+    },
+    "name": "Azathoth",
+    "level": 10
+}
